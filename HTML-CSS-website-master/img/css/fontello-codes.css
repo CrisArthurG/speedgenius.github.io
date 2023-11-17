@@ -1,0 +1,5 @@
+
+.icon-gmail:before { content: '\e800'; } /* '' */
+.icon-phone:before { content: '\e801'; } /* '' */
+.icon-location:before { content: '\e802'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */
